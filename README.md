@@ -135,5 +135,4 @@ This was my first big project so there are lot of things to improve upon
 ## Credits 💳
 This project is heavily inspired from **[this GitHub repository](https://github.com/7NNS7/Recommendation-System-for-Farming)** (especially the crop recommendation and fertilizer recommendation part). This project is an extended version of the above mentioned project. Please star the mentioned repo.
 
-## License 📝
 
